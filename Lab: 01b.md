@@ -11,4 +11,4 @@
 - Criticism remembers to learn from it.
 - Success with others remember to be inspiered by them.
 
-![this is me](me.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
