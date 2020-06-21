@@ -6,7 +6,7 @@
 ### how you can use it?
 <p>You can use them through perseverance and effort in what you want to develop</p>
 
-always remember when faced with:
-*challenges remember to be embraced.1
+### always remember when faced with:
+1.challenges remember to be embraced.
 *Criticism remembers to learn from it.
 *Success with others remember to be inspiered by them.
