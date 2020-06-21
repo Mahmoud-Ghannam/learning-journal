@@ -10,3 +10,6 @@
 - challenges remember to be embraced.
 - Criticism remembers to learn from it.
 - Success with others remember to be inspiered by them.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
