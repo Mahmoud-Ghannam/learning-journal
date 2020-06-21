@@ -7,6 +7,6 @@
 <p>You can use them through perseverance and effort in what you want to develop</p>
 
 always remember when faced with:
-*challenges remember to be embraced.
+*challenges remember to be embraced.1
 *Criticism remembers to learn from it.
 *Success with others remember to be inspiered by them.
